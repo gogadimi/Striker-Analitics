@@ -1,0 +1,8 @@
+{
+  "name": "Striker Analytics",
+  "description": "An AI-powered football training assistant that analyzes video biomechanics using Gemini 2.5 Flash to provide coaching feedback in English, Macedonian, and Spanish, and generate MediaPipe code.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

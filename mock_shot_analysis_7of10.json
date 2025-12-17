@@ -1,0 +1,53 @@
+{
+  "form_score": "5/10",
+  "score_label": "Needs Improvement",
+  "action_detected": "Instep Drive Shot",
+  
+  "key_strengths": [
+    "Good approach speed, showing aggression towards the ball.",
+    "Solid knee extension on the striking leg, indicating potential for power."
+  ],
+  "areas_for_improvement": [
+    {
+      "issue": "Critical: Torso Lean (leaning back too much)",
+      "drill": "Seated Forward Bend Drive",
+      "instructions": [
+        "Sit on a chair with your plant foot flat on the ground.",
+        "Practice swinging your kicking leg while keeping your chest hovering over your knee.",
+        "Focus on the feeling of 'covering' the ball with your sternum."
+      ]
+    },
+    {
+      "issue": "Critical: Plant Foot Placement (foot is too far behind the ball)",
+      "drill": "Cone Gate Planting",
+      "instructions": [
+        "Place two cones 15cm apart (the 'gate') next to a stationary ball.",
+        "Run up and practice landing your plant foot exactly between the cones.",
+        "Do not kick the ball; just focus on the landing spot. Repeat 20 times."
+      ]
+    },
+    {
+      "issue": "Hip rotation and follow-through",
+      "drill": "Cross-Body Finish",
+      "instructions": [
+        "Stand on your plant leg and swing your kicking leg.",
+        "Force your kicking leg to land across your body, past your plant leg.",
+        "This ensures full hip rotation through the imaginary ball."
+      ]
+    }
+  ],
+  
+  "technical_data": {
+    "Torso_Lean_Degrees": 118,
+    "Target_Torso_Lean": 95,
+    "Plant_Foot_X_Offset_cm": 12,
+    "Target_X_Offset_cm": 5,
+    "Conclusion_MK": "Двете критични грешки се во поставувањето на торзото и стајната нога, што драстично ја намалува прецизноста и моќта на ударот."
+  },
+  
+  "coaching_tips": {
+    "en": "Great approach speed! However, we noticed two critical errors. Your torso is leaning back at 118 degrees (Target: 95), which causes the ball to fly high. Also, your plant foot is 12 cm behind the ball, sacrificing power. **Correction:** Lean your torso slightly over the ball and position your plant foot right next to the ball to maximize accuracy and force.",
+    "mk": "Твојот залет е одличен! Сепак, забележавме две критични грешки. Твоето торзо е навалено наназад на 118 степени (Цел: 95°), што предизвикува топката да оди високо. Исто така, твојата стајна нога е 12 cm поназад од топката, што ја намалува силата. **Корекција:** Наведни го торзото малку над топката и постави ја стајната нога веднаш до топката за да ја зголемиш прецизноста и силата.",
+    "es": "¡Excelente velocidad de aproximación! Sin embargo, notamos dos errores críticos. Tu torso se inclina hacia atrás a 118 grados (Objetivo: 95°), lo que hace que el balón se eleve demasiado. Además, tu pie de apoyo está 12 cm detrás del balón, sacrificando potencia. **Corrección:** Inclina el torso ligeramente sobre el balón y coloca el pie de apoyo justo al lado del balón para maximizar la precisión y la fuerza."
+  }
+}

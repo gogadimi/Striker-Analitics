@@ -1,0 +1,27 @@
+{
+  "visualization_type": "Ghost_Compare",
+  "analysis_focus": "Lower_Body_Shot_Stability",
+  "rendering_instructions": {
+    "Ghost_Color": "#4CFF30",
+    "Player_Color": "#FF304C",
+    "Opacity_Setting": 0.6,
+    "key_segments_to_draw": [
+      "L_HIP-L_ANKLE",
+      "R_HIP-R_KNEE",
+      "L_HIP-L_SHOULDER"
+    ]
+  },
+  "data_for_rendering": {
+    "player_data": {
+      "L_HIP": [0.45, 0.55],
+      "R_KNEE": [0.60, 0.65],
+      "L_ANKLE": [0.40, 0.75]
+    },
+    "pro_data": {
+      "L_HIP": [0.45, 0.55],
+      "R_KNEE": [0.60, 0.60],
+      "L_ANKLE": [0.44, 0.75]
+    }
+  },
+  "coaching_explanation_mk": "Забележете како 'духот' (зелено) го поставува стајното стапало директно под колкот за максимална стабилност. Вашето стапало (црвено) е поставено премногу назад, што предизвикува навалување на телото и губење на рамнотежа."
+}
